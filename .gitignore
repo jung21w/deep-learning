@@ -11,6 +11,8 @@ face_generation/data/
 *.pyc
 *.p
 *.pkl 
-
+*.zip
+*.gz
+*.pickle
 */.floyd*
 
