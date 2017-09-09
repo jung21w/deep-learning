@@ -14,9 +14,9 @@ face_generation/data/
 *.zip
 *.gz
 *.pickle
-*/.floyd*
+# */.floyd*
 
-image-classification/cifar-10-batches-py
+# image-classification/cifar-10-batches-py
 image-classification/image_classification.data-00000-of-00001
 image-classification/image_classification.index
 image-classification/image_classification.meta
